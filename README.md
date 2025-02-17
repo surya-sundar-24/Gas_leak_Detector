@@ -1,1 +1,4 @@
+Gas leakage is a significant safety concern in both residential and industrial settings, posing risks of fire, explosions, and health hazards.The Gas Leakage Detection System (GLDS) employing NodeMCU and MQ-2 sensor is a cutting-edge solution for early detection of gas leaks in diverse environments.
+
+NodeMCU, an IoT development board, integrates seamlessly with the MQ-2 gas sensor, offering real- time monitoring capabilities. The sensor detects various gases, including LPG, methane, and propane, with high sensitivity and accuracy. Through wireless connectivity, NodeMCU transmits data to a central monitoring station or mobile device, enabling swift response to potential hazards. This cost-effective and efficient system provides timely alerts via notifications, ensuring prompt action to mitigate risks and safeguard lives and property from the perils of gas leakage.
 # Gas_leak_Detector
